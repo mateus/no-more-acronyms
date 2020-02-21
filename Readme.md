@@ -1,6 +1,6 @@
 ### Converts a YAML dictionary of acronyms into a PLIST of Text Substitutions for Mac
 
-`$ ruby no-more-acronyms.rb [paths]`
+`$ ruby no-more-acronyms.rb [paths.yml]`
 
 ### Example
 
