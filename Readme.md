@@ -11,3 +11,5 @@ results/acronyms.plist CREATED
 
 Drag created files to Settings > Keyboard > Text configuration window
 ```
+
+![nmar](https://user-images.githubusercontent.com/2091116/75079693-a15ab680-54d7-11ea-9bbc-6a9910597ce8.gif)
