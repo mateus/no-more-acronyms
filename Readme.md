@@ -1,14 +1,14 @@
-## Converts a YAML dictionary of acronyms into a PLIST of Text Substitutions for Mac
+### Converts a YAML dictionary of acronyms into a PLIST of Text Substitutions for Mac
 
-## Using local YMAL (./acronyms.yml)
+#### Using local YMAL (./acronyms.yml)
 
-### `$ ruby no-more-acronyms.rb`
+`$ ruby no-more-acronyms.rb`
 
-## Using YMAL from custom path
+#### Using YMAL from custom path
 
-### `$ ruby no-more-acronyms.rb {path}`
+`$ ruby no-more-acronyms.rb {path}`
 
-## Example
+### Example
 
 ```
 $ ruby no-more-acronyms.rb
